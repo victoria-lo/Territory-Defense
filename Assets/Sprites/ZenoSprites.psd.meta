@@ -1,0 +1,394 @@
+fileFormatVersion: 2
+guid: 94b83ede03772c740aa710b193e7b1a2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 413143047060243372
+    second: ZenoSprites_0
+  - first:
+      213: -8662391463240600238
+    second: ZenoSprites_1
+  - first:
+      213: 2310061760159701056
+    second: ZenoSprites_2
+  - first:
+      213: -5482122260742120986
+    second: ZenoSprites_3
+  - first:
+      213: 5561004862847353770
+    second: ZenoSprites_4
+  - first:
+      213: 8498710934745515747
+    second: ZenoSprites_5
+  - first:
+      213: 6689015286712427429
+    second: ZenoSprites_6
+  - first:
+      213: 3766127170698563964
+    second: ZenoSprites_7
+  - first:
+      213: 4845593529258304982
+    second: ZenoSprites_8
+  - first:
+      213: 2111526305213152515
+    second: ZenoSprites_9
+  - first:
+      213: 7249478739980257724
+    second: ZenoSprites_10
+  - first:
+      213: -7812125176822812858
+    second: ZenoSprites_11
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ZenoSprites_0
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 1066
+        width: 462
+        height: 628
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 001da02949d3b1c40b211c27f4b89e6e
+      internalID: 413143047060243372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZenoSprites_1
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 1585
+        width: 120
+        height: 166
+      alignment: 9
+      pivot: {x: 0.4999995, y: 0.8876534}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfa170ef74c04e34da5fd83691aea776
+      internalID: -8662391463240600238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZenoSprites_2
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 1604
+        width: 106
+        height: 147
+      alignment: 9
+      pivot: {x: 0.4999977, y: 0.93775827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb97adb37125a3540b9b6e1e17aaf0c8
+      internalID: 2310061760159701056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZenoSprites_3
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 1294
+        width: 356
+        height: 353
+      alignment: 9
+      pivot: {x: 0.83892477, y: 0.84180516}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a414de981267bcc4893e6997b8b5449d
+      internalID: -5482122260742120986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZenoSprites_4
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 1360
+        width: 100
+        height: 141
+      alignment: 9
+      pivot: {x: 0.70109314, y: 0.87081325}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 210ab3e144949e140a9a7ff92ed47bab
+      internalID: 5561004862847353770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZenoSprites_5
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 1356
+        width: 100
+        height: 142
+      alignment: 9
+      pivot: {x: 0.41956115, y: 0.8682019}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99318c48417d24842a38d35ce6cd3b1e
+      internalID: 8498710934745515747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZenoSprites_6
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 1035
+        width: 201
+        height: 258
+      alignment: 9
+      pivot: {x: 0.82015127, y: 0.1258687}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81bd22a4948d8144daa669c1099e1e02
+      internalID: 6689015286712427429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZenoSprites_7
+      rect:
+        serializedVersion: 2
+        x: 1928
+        y: 57
+        width: 316
+        height: 838
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e54ba02dc0c8714c98011d66ae61280
+      internalID: 3766127170698563964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZenoSprites_8
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 670
+        width: 436
+        height: 225
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 631970a8094654f42a3cc5779b01f665
+      internalID: 4845593529258304982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZenoSprites_9
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 762
+        width: 82
+        height: 111
+      alignment: 9
+      pivot: {x: 0.7942855, y: 0.28259936}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00a28b037dd51c8469bff276b041d270
+      internalID: 2111526305213152515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZenoSprites_11
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 585
+        width: 461
+        height: 629
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc5345e5c7157cb4b80bf5204a616bcd
+      internalID: -7812125176822812858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

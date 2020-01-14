@@ -1,0 +1,367 @@
+fileFormatVersion: 2
+guid: a9599d19fdf436345a97558a7091b69b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3302855801650360582
+    second: TortySprites_0
+  - first:
+      213: 4521816274497702066
+    second: TortySprites_1
+  - first:
+      213: 271151569321958839
+    second: TortySprites_2
+  - first:
+      213: -7510169846023093252
+    second: TortySprites_3
+  - first:
+      213: 8185473606091783754
+    second: TortySprites_4
+  - first:
+      213: 7028751511479963800
+    second: TortySprites_5
+  - first:
+      213: 5707407644105377821
+    second: TortySprites_6
+  - first:
+      213: -34423812863422019
+    second: TortySprites_7
+  - first:
+      213: 4746887849317908800
+    second: TortySprites_8
+  - first:
+      213: -8925809833996117071
+    second: TortySprites_9
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TortySprites_0
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 1216
+        width: 437
+        height: 637
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16841d48a26149143b56870ce76d6e0a
+      internalID: -3302855801650360582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TortySprites_1
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1586
+        width: 93
+        height: 143
+      alignment: 9
+      pivot: {x: 0.45174286, y: 0.81384104}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5773994d3ddf0f7489ea0d4155d259a5
+      internalID: 4521816274497702066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TortySprites_2
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 1593
+        width: 127
+        height: 120
+      alignment: 9
+      pivot: {x: 0.21729574, y: 0.87399393}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66572b75bb66dd5458d651691e36e0f1
+      internalID: 271151569321958839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TortySprites_3
+      rect:
+        serializedVersion: 2
+        x: 1581
+        y: 1530
+        width: 589
+        height: 402
+      alignment: 9
+      pivot: {x: 0.52285886, y: 0.08693137}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1961ca9a9cdb5614f802c9fd297ccb78
+      internalID: -7510169846023093252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TortySprites_4
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 1256
+        width: 111
+        height: 131
+      alignment: 9
+      pivot: {x: 0.50000054, y: 0.84258986}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6082e7d54d52b947ab1335a68e6238a
+      internalID: 8185473606091783754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TortySprites_5
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 1256
+        width: 101
+        height: 141
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7864635}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65437b6c4d0c9c246ab4ca7ad472859b
+      internalID: 7028751511479963800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TortySprites_6
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 310
+        width: 433
+        height: 637
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10e2fb3300672db43b96167d7da2ad00
+      internalID: 5707407644105377821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TortySprites_7
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 589
+        width: 539
+        height: 617
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32e8e7841bc043a4e9fa065a8521a177
+      internalID: -34423812863422019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TortySprites_8
+      rect:
+        serializedVersion: 2
+        x: 1875
+        y: 609
+        width: 139
+        height: 514
+      alignment: 9
+      pivot: {x: 0.46771285, y: 0.107087605}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed922326acef78a48b8887533811164b
+      internalID: 4746887849317908800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TortySprites_9
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 126
+        width: 363
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10e9b9fbd670a964a984e75df4d5645b
+      internalID: -8925809833996117071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
