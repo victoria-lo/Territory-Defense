@@ -9,6 +9,7 @@ public class WeaponCollision : MonoBehaviour
     public static bool die;
     public string skillName;
     bool touched;
+    private GameObject player;
 
     Dictionary<string, int> skillDmg = new Dictionary<string, int>()
                                             {
@@ -66,10 +67,8 @@ public class WeaponCollision : MonoBehaviour
             {
                 GameObject.Find("DieSFX").GetComponent<AudioSource>().Play();
                 collision.GetComponentInChildren<Animator>().SetTrigger("die");
-                collision.GetComponent<BoxCollider2D>().enabled = false;
-                StartCoroutine(Die());
-                collision.GetComponent<PlayerController>().enabled = false;
-                die = false;
+                player = collision.gameObject;
+                Invoke("Die", 1);
             }
             touched = true;
         }
@@ -81,10 +80,9 @@ public class WeaponCollision : MonoBehaviour
         touched = false;
     }
 
-    IEnumerator Die()
+    void Die()
     {
+        player.SetActive(false);
         die = true;
-        yield return new WaitForSeconds(1.2f);
-        StopCoroutine(Die());
     }
 }

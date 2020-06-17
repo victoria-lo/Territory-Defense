@@ -306,4 +306,11 @@ public class BattleSystem : MonoBehaviour
         
         Debug.Log("End game");
     }
+
+    public void forfeit(GameObject forfeitMessage) {
+        if (turnIndex < playerPositions.Length / 2)
+            forfeitMessage.GetComponentInChildren<TextMeshProUGUI>().text = "This will result in Team 2's victory.";
+        else
+            forfeitMessage.GetComponentInChildren<TextMeshProUGUI>().text = "This will result in Team 1's victory.";
+    }
 }
