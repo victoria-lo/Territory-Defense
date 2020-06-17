@@ -20,6 +20,7 @@ public class BattleSystem : MonoBehaviour
     public GameObject atk2;
 
     AudioSource sfx;
+    AudioSource bgm;
     public AudioClip slash;
     public AudioClip bladeThrow;
     public AudioClip guard;
@@ -30,6 +31,7 @@ public class BattleSystem : MonoBehaviour
     public AudioClip firstAid;
     public AudioClip words;
     public GameObject[] stages;
+    public AudioClip[] stageMusic;
 
     PlayerController[] playerTurns;
     Image[] playerHealth;
@@ -49,6 +51,7 @@ public class BattleSystem : MonoBehaviour
 
     private void Start()
     {
+        bgm = GameObject.Find("BGM").GetComponent<AudioSource>();
         sfx = GameObject.Find("SFX").GetComponent<AudioSource>();
         playerCharacters = new List<CharacterClass>();
         playerPositions = new Transform[players.transform.childCount];
@@ -62,7 +65,8 @@ public class BattleSystem : MonoBehaviour
     public void battleStart()
     {
         stages[stageIndex].SetActive(true);
-
+        bgm.clip = stageMusic[stageIndex];
+        bgm.Play();
         camera = Transform.FindObjectOfType<CinemachineVirtualCamera>();
         camera.m_Lens.OrthographicSize = 3;
         camera.m_Follow = playerPositions[0];
