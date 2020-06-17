@@ -34,7 +34,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: -8.814}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -0.52, y: -1.2899848}
+  m_AnchoredPosition: {x: -0.4, y: -1.2}
   m_SizeDelta: {x: 1, y: 1}
   m_Pivot: {x: 0.50000024, y: 0.82676184}
 --- !u!222 &3729016071072830658
@@ -82,7 +82,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 1
   m_Sprite: {fileID: -8662391463240600238, guid: 94b83ede03772c740aa710b193e7b1a2,
     type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -304,7 +304,7 @@ PolygonCollider2D:
   m_Offset: {x: 0, y: 0}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 0.92107505, y: 0.9429575}
+    pivot: {x: 0.83892477, y: 0.84180516}
     oldSize: {x: 3.56, y: 3.5309358}
     newSize: {x: 1.3900448, y: 5.14}
     adaptiveTilingThreshold: 0.5
